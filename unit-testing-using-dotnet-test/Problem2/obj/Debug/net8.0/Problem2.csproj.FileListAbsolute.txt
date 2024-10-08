@@ -1,0 +1,11 @@
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem2\bin\Debug\net8.0\Problem2.deps.json
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem2\bin\Debug\net8.0\Problem2.dll
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem2\bin\Debug\net8.0\Problem2.pdb
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem2\obj\Debug\net8.0\Problem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem2\obj\Debug\net8.0\Problem2.AssemblyInfoInputs.cache
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem2\obj\Debug\net8.0\Problem2.AssemblyInfo.cs
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem2\obj\Debug\net8.0\Problem2.csproj.CoreCompileInputs.cache
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem2\obj\Debug\net8.0\Problem2.dll
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem2\obj\Debug\net8.0\refint\Problem2.dll
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem2\obj\Debug\net8.0\Problem2.pdb
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem2\obj\Debug\net8.0\ref\Problem2.dll

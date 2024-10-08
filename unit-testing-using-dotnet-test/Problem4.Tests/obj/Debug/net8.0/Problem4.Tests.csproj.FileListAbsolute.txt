@@ -1,0 +1,5 @@
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem4.Tests\obj\Debug\net8.0\Problem4.Tests.csproj.AssemblyReference.cache
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem4.Tests\obj\Debug\net8.0\Problem4.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem4.Tests\obj\Debug\net8.0\Problem4.Tests.AssemblyInfoInputs.cache
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem4.Tests\obj\Debug\net8.0\Problem4.Tests.AssemblyInfo.cs
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem4.Tests\obj\Debug\net8.0\Problem4.Tests.csproj.CoreCompileInputs.cache

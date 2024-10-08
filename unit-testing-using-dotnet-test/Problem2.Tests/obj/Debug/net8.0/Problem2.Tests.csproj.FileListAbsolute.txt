@@ -1,0 +1,6 @@
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem2.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Problem2.Tests
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem2.Tests\obj\Debug\net8.0\Problem2.Tests.csproj.AssemblyReference.cache
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem2.Tests\obj\Debug\net8.0\Problem2.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem2.Tests\obj\Debug\net8.0\Problem2.Tests.AssemblyInfoInputs.cache
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem2.Tests\obj\Debug\net8.0\Problem2.Tests.AssemblyInfo.cs
+C:\Users\Dipesh Adhikari\OneDrive\Desktop\CS208\csharp new try again\unit-testing-using-dotnet-test\Problem2.Tests\obj\Debug\net8.0\Problem2.Tests.csproj.CoreCompileInputs.cache
